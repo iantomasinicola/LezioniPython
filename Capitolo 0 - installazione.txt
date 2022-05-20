@@ -1,0 +1,11 @@
+python -m pip install notebook
+
+python -m pip install pandas
+
+python -m pip install matplotlib
+
+python -m pip install openpyxl
+
+python -m pip install scikit-learn
+
+jupyter notebook
